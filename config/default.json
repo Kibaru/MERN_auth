@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kifaru:J17champion@cluster0.0gmjc.mongodb.net/rental?retryWrites=true&w=majority",
+    "jwtSecret": "kifaru"
+}
