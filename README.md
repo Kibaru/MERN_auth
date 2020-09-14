@@ -1,0 +1,1 @@
+React Front-back authentication(MERN) with redux for state management. Enjoy
